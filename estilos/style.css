@@ -32,5 +32,16 @@ section#telefone {
     width: 223px;
     height: 450px;
 
+    position: relative;
+
     background: url(../imagens/frame-iphone-novadimen.png) no-repeat;
+}
+
+iframe#tela {
+    width: 191px;
+    height: 338px;
+
+    position: relative;
+    top: 58px;
+    left: 16px;
 }
